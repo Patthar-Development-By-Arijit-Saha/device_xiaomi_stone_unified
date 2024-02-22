@@ -1,6 +1,6 @@
 git clone https://github.com/Amrito-Projects/device_xiaomi_sm6375-common.git -b lineage-21 device/xiaomi/sm6375-common
 
-git clone --depth=1 https://github.com/Stone-Trees/vendor_xiaomi.git -b lineage-21 vendor/xiaomi
+git clone --depth=1 https://github.com/Amrito-Projects/vendor_xiaomi.git -b lineage-21 vendor/xiaomi
 
 git clone --depth=1 https://github.com/Amrito-Projects/android_kernel_xiaomi_sm6375.git -b 14.0 kernel/xiaomi/sm6375
 
