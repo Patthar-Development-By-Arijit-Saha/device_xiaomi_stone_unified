@@ -6,6 +6,8 @@
 
 DEVICE_PATH := device/xiaomi/stone
 
+INLINE_KERNEL_PREBUILT := true
+
 # A/B
 AB_OTA_UPDATER := true
 
