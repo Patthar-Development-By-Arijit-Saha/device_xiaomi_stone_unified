@@ -2,7 +2,7 @@ echo 'Starting to clone stuffs needed for your device'
 echo 'Cloning Common Tree [1/6]'
 # Xiaomi SM6375-Common Tree
 rm -rf device/xiaomi/sm6375-common
-git clone https://github.com/Amrito-Projects/device_xiaomi_sm6375-common.git -b lineage-21 device/xiaomi/sm6375-common
+git clone https://github.com/Stone-Development-By-Arijit/device_xiaomi_sm6375-common.git -b udc device/xiaomi/sm6375-common
 
 echo 'Cloning Stone Vendor tree [2/6]'
 # Device Vendor Tree
